@@ -1,4 +1,4 @@
-# Campus Connect - Empowering On-Campus Student Connections MVP v1.0
+# Campus Connect - Empowering On-Campus Student Connections
 
 Welcome to Campus Connect, an innovative application designed to revolutionize on-campus student connectivity. With Campus Connect, students can easily connect and engage with each other, leveraging the unique "On Campus" toggle feature. This groundbreaking functionality sets Campus Connect apart from existing solutions like "Engage" by offering a superior user experience and enhanced features.
 
@@ -19,5 +19,11 @@ Campus Connect offers significant advantages over existing college software, suc
 - **Real-Time Connections**: The "On Campus" toggle feature provides an immediate and accurate way for students to connect with others who are physically present on campus, enabling spontaneous collaborations and connections.
 
 - **Enhanced Functionality**: Campus Connect goes beyond the standard features of existing solutions, incorporating additional capabilities tailored to the specific needs and preferences of students.
+
+## Video Demo
+
+To see Campus Connect in action and explore its features, check out our video demo:
+
+[![Campus Connect Demo](https://img.youtube.com/vi/bQzLIkoVxPY/0.jpg)](https://www.youtube.com/watch?v=bQzLIkoVxPY)
 
 Discover the power of Campus Connect today and elevate your on-campus experience. Join us in transforming the way students connect and engage on campus.
